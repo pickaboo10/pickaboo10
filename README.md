@@ -13,6 +13,5 @@ Hi, I'm Vanisha Raj 👋<br><br>Aspiring Software Engineer | Building Projects |
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pickaboo10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pickaboo10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
